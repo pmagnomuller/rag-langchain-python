@@ -1,0 +1,1 @@
+This is a sample document about LangChain-based Retrieval-Augmented Generation (RAG) using Ollama and Chroma.
